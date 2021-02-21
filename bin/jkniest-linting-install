@@ -1,5 +1,12 @@
-#!/usr/bin/env php
+#!/usr/bin/env bash
 
-<?php
+SCRIPTPATH="$( cd "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
 
-echo "testing binary stuff";
+echo ""
+echo ""
+
+echo "Installing PHP CS fixer configuration"
+echo "${SCRIPTPATH}"
+
+echo ""
+echo ""
