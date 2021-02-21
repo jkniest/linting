@@ -6,7 +6,7 @@ echo ""
 echo ""
 
 echo "Installing PHP CS fixer configuration"
-echo "${SCRIPTPATH}"
+cp vendor/jkniest/linting/stubs/.php_cs .
 
 echo ""
 echo ""
