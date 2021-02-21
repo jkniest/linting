@@ -1,0 +1,21 @@
+{
+    "name": "jkniest/linting",
+    "description": "Internal library which contains my linting configurations",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jordan Kniest",
+            "email": "mail@jkniest.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "friendsofphp/php-cs-fixer": "2.18.x-dev"
+    },
+    "autoload": {
+        "files": [
+            "./src/helpers.php"
+        ]
+    }
+}
