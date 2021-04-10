@@ -12,6 +12,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
+## [1.0.4] - 2021-04-10
+### Packages
+- Updated `friendsofphp/php-cs-fixer`: v2.18.4 -> v2.18.5
+
 ## [1.0.3] - 2021-03-21
 ### Packages
 - Updated `friendsofphp/php-cs-fixer`: v2.18.3 -> v2.18.4
@@ -30,6 +34,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added configuration file for php cs fixer
 - Added installation script
 
+[1.0.4]: https://github.com/jkniest/linting/compare/1.0.3...1.0.4
 [1.0.3]: https://github.com/jkniest/linting/compare/1.0.2...1.0.3
 [1.0.2]: https://github.com/jkniest/linting/compare/1.0.1...1.0.2
 [1.0.1]: https://github.com/jkniest/linting/compare/1.0.0...1.0.1
