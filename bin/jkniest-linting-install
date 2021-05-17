@@ -6,7 +6,13 @@ echo ""
 echo ""
 
 echo "Installing PHP CS fixer configuration"
-cp vendor/jkniest/linting/stubs/.php_cs .
+cp vendor/jkniest/linting/stubs/.php-cs-fixer.php .
+
+echo ""
+echo ""
+
+echo "Removing old PHP CS fixer configuration"
+rm -rf .php_cs
 
 echo ""
 echo ""
