@@ -170,5 +170,4 @@ return [
         'array_push'                                       => true,
         'clean_namespace'                                  => true,
         'no_useless_sprintf'                               => true,
-        'phpdoc_to_property_type'                          => true,
 ];
