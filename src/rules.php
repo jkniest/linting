@@ -170,4 +170,6 @@ return [
         'array_push'                                       => true,
         'clean_namespace'                                  => true,
         'no_useless_sprintf'                               => true,
+        'types_spaces'                                     => true,
+        'declare_parentheses'                              => true,
 ];
