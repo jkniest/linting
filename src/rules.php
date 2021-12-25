@@ -172,4 +172,8 @@ return [
         'no_useless_sprintf'                               => true,
         'types_spaces'                                     => true,
         'declare_parentheses'                              => true,
+        'assign_null_coalescing_to_coalesce_equal'         => true,
+        'modernize_strpos'                                 => true,
+        'no_space_around_double_colon'                     => true,
+        'string_length_to_empty'                           => true,
 ];
