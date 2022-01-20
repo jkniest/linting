@@ -176,4 +176,5 @@ return [
         'modernize_strpos'                                 => true,
         'no_space_around_double_colon'                     => true,
         'string_length_to_empty'                           => true,
+        'get_class_to_class_keyword'                       => true,
 ];

@@ -12,6 +12,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
+## [1.4.0] - 2022-01-20
+### Added
+- Added `get_class_to_class_keyword` rule
+
+### Packages
+- Updated `friendsofphp/php-cs-fixer`: v3.4.0 -> v3.5.0
+
 ## [1.3.0] - 2021-12-25
 ### Added
 - Added `assign_null_coalescing_to_coalesce_equal` rule
@@ -73,6 +80,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added configuration file for php cs fixer
 - Added installation script
 
+[1.4.0]: https://github.com/jkniest/linting/compare/1.3.0...1.4.0
 [1.3.0]: https://github.com/jkniest/linting/compare/1.2.0...1.3.0
 [1.2.0]: https://github.com/jkniest/linting/compare/1.1.1...1.2.0
 [1.1.1]: https://github.com/jkniest/linting/compare/1.1.0...1.1.1
