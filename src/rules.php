@@ -177,4 +177,6 @@ return [
         'no_space_around_double_colon'                     => true,
         'string_length_to_empty'                           => true,
         'get_class_to_class_keyword'                       => true,
+        'class_reference_name_casing'                      => true,
+        'no_unneeded_import_alias'                         => true,
 ];

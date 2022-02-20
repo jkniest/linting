@@ -12,6 +12,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
+## [1.5.0] - 2022-02-20
+### Added
+- Added `class_reference_name_casing` rule
+- Added `no_unneeded_import_alias` rule
+
+### Packages
+- Updated `friendsofphp/php-cs-fixer`: v3.5.0 -> v3.6.0
+
 ## [1.4.0] - 2022-01-20
 ### Added
 - Added `get_class_to_class_keyword` rule
@@ -80,6 +88,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added configuration file for php cs fixer
 - Added installation script
 
+[1.5.0]: https://github.com/jkniest/linting/compare/1.4.0...1.5.0
 [1.4.0]: https://github.com/jkniest/linting/compare/1.3.0...1.4.0
 [1.3.0]: https://github.com/jkniest/linting/compare/1.2.0...1.3.0
 [1.2.0]: https://github.com/jkniest/linting/compare/1.1.1...1.2.0
