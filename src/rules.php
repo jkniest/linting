@@ -179,4 +179,7 @@ return [
         'get_class_to_class_keyword'                       => true,
         'class_reference_name_casing'                      => true,
         'no_unneeded_import_alias'                         => true,
+        'new_with_braces'                                  => true,
+        'single_line_comment_spacing'                      => true,
+        'no_trailing_comma_in_singleline_function_call'    => true,
 ];

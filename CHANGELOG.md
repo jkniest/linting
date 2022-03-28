@@ -12,6 +12,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
+## [1.6.0] - 2022-03-29
+### Added
+- Added `new_with_braces` rule
+- Added `single_line_comment_spacing` rule
+- Added `no_trailing_comma_in_singleline_function_call` rule
+
+### Packages
+- Updated `friendsofphp/php-cs-fixer`: v3.6.0 -> v3.8.0 
+
 ## [1.5.0] - 2022-02-20
 ### Added
 - Added `class_reference_name_casing` rule
@@ -88,6 +97,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added configuration file for php cs fixer
 - Added installation script
 
+[1.6.0]: https://github.com/jkniest/linting/compare/1.5.0...1.6.0
 [1.5.0]: https://github.com/jkniest/linting/compare/1.4.0...1.5.0
 [1.4.0]: https://github.com/jkniest/linting/compare/1.3.0...1.4.0
 [1.3.0]: https://github.com/jkniest/linting/compare/1.2.0...1.3.0
