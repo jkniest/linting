@@ -12,6 +12,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
+## [1.7.0] - 2022-07-11
+### Added
+- Added `statement_indentation` rule
+- Added `no_useless_nullsafe_operator` rule
+
+### Changed
+- Updated `no_useless_nullsafe_operator` rule to include match
+
+### Packages
+- Updated `friendsofphp/php-cs-fixer`: v3.8.0 -> v3.9.1
+
 ## [1.6.0] - 2022-03-29
 ### Added
 - Added `new_with_braces` rule
@@ -97,6 +108,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added configuration file for php cs fixer
 - Added installation script
 
+[1.7.0]: https://github.com/jkniest/linting/compare/1.6.0...1.7.0
 [1.6.0]: https://github.com/jkniest/linting/compare/1.5.0...1.6.0
 [1.5.0]: https://github.com/jkniest/linting/compare/1.4.0...1.5.0
 [1.4.0]: https://github.com/jkniest/linting/compare/1.3.0...1.4.0

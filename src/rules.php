@@ -143,7 +143,7 @@ return [
         'switch_case_space'                                => true,
         'ternary_operator_spaces'                          => true,
         'ternary_to_null_coalescing'                       => true,
-        'trailing_comma_in_multiline'                      => ['elements' => ['arrays', 'arguments', 'parameters']],
+        'trailing_comma_in_multiline'                      => ['elements' => ['arrays', 'arguments', 'parameters', 'match']],
         'trim_array_spaces'                                => true,
         'unary_operator_spaces'                            => true,
         'visibility_required'                              => true,
@@ -182,4 +182,6 @@ return [
         'new_with_braces'                                  => true,
         'single_line_comment_spacing'                      => true,
         'no_trailing_comma_in_singleline_function_call'    => true,
+        'statement_indentation'                            => true,
+        'no_useless_nullsafe_operator'                     => true,
 ];
