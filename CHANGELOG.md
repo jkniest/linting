@@ -12,6 +12,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
+## [1.8.0] - 2022-12-09
+### Added
+- Added `no_trailing_comma_in_singleline` rule
+- Added `no_useless_concat_operator` rule
+
+### Packages
+- Updated `friendsofphp/php-cs-fixer`: v3.9.1 -> v3.13.0
+
 ## [1.7.0] - 2022-07-11
 ### Added
 - Added `statement_indentation` rule
