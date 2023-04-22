@@ -12,6 +12,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
+## [1.9.0] - 2023-04-22
+### Added
+- Added `single_space_around_construct` rule
+- Added `control_structure_braces` rule
+- Added `control_structure_continuation_position` rule
+- Added `curly_braces_position` rule
+- Added `no_multiple_statements_per_line` rule
+
+### Removed
+- Removed `single_space_after_construct` rule
+- Removed `braces` rule
+
+### Packages
+- Updated `friendsofphp/php-cs-fixer`: v3.13.1 -> v3.16.0
+
 ## [1.8.1] - 2022-12-24
 ### Packages
 - Updated `friendsofphp/php-cs-fixer`: v3.13.0 -> v3.13.1
