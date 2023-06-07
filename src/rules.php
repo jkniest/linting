@@ -189,4 +189,6 @@ return [
         'statement_indentation'                            => true,
         'no_useless_nullsafe_operator'                     => true,
         'no_useless_concat_operator'                       => true,
+        'single_line_empty_body'                           => true,
+        'ordered_types'                                    => true,
 ];
