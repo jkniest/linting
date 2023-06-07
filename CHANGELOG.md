@@ -12,6 +12,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
+## [1.10.0] - 2023-06-07
+### Added
+- Added `single_line_empty_body` rule
+- Added `ordered_types` rule
+
+### Packages
+- Updated `friendsofphp/php-cs-fixer`: v3.16.0 -> v3.17.0
+
 ## [1.9.0] - 2023-04-22
 ### Added
 - Added `single_space_around_construct` rule
@@ -135,6 +143,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added configuration file for php cs fixer
 - Added installation script
 
+[1.10.0]: https://github.com/jkniest/linting/compare/1.9.0...1.10.0
+[1.9.0]: https://github.com/jkniest/linting/compare/1.8.1...1.9.0
 [1.8.1]: https://github.com/jkniest/linting/compare/1.8.0...1.8.1
 [1.8.0]: https://github.com/jkniest/linting/compare/1.7.0...1.8.0
 [1.7.0]: https://github.com/jkniest/linting/compare/1.6.0...1.7.0
