@@ -12,6 +12,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
+## [1.11.0] - 2023-06-19
+### Packages
+- Updated `friendsofphp/php-cs-fixer`: v3.17.0 -> v3.18.0
+
 ## [1.10.0] - 2023-06-07
 ### Added
 - Added `single_line_empty_body` rule
