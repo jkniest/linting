@@ -160,6 +160,7 @@ return [
         'phpdoc_line_span'                                 => ['const' => 'single', 'property' => 'single'],
         'global_namespace_import'                          => ['import_classes' => true, 'import_constants' => false, 'import_functions' => false],
         'self_static_accessor'                             => true,
+        'nullable_type_declaration'                        => true,
         'nullable_type_declaration_for_default_null_value' => true,
         'simplified_if_return'                             => true,
         'operator_linebreak'                               => true,
@@ -191,4 +192,5 @@ return [
         'no_useless_concat_operator'                       => true,
         'single_line_empty_body'                           => true,
         'ordered_types'                                    => true,
+        'type_declaration_spaces'                          => true,
 ];

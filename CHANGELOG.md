@@ -12,6 +12,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
+## [1.12.0] - 2023-07-07
+### Added
+- Added `nullable_type_declaration` rule
+- Added `type_declaration_spaces` rule
+
+### Packages
+- Updated `friendsofphp/php-cs-fixer`: v3.18.0 -> v3.21.1
+
 ## [1.11.0] - 2023-06-19
 ### Packages
 - Updated `friendsofphp/php-cs-fixer`: v3.17.0 -> v3.18.0
@@ -147,6 +155,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added configuration file for php cs fixer
 - Added installation script
 
+[1.12.0]: https://github.com/jkniest/linting/compare/1.11.0...1.12.0
+[1.11.0]: https://github.com/jkniest/linting/compare/1.10.0...1.11.0
 [1.10.0]: https://github.com/jkniest/linting/compare/1.9.0...1.10.0
 [1.9.0]: https://github.com/jkniest/linting/compare/1.8.1...1.9.0
 [1.8.1]: https://github.com/jkniest/linting/compare/1.8.0...1.8.1
