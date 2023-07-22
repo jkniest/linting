@@ -193,4 +193,5 @@ return [
         'single_line_empty_body'                           => true,
         'ordered_types'                                    => true,
         'type_declaration_spaces'                          => true,
+        'yield_from_array_to_yields'                       => true,
 ];
