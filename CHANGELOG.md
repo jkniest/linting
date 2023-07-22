@@ -12,6 +12,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
+## [1.13.0] - 2023-07-22
+### Added
+- Added `yield_from_array_to_yields` rule
+
+### Packages
+- Updated `friendsofphp/php-cs-fixer`: v3.21.1 -> v3.22.0
+
 ## [1.12.0] - 2023-07-07
 ### Added
 - Added `nullable_type_declaration` rule
@@ -155,6 +162,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added configuration file for php cs fixer
 - Added installation script
 
+[1.13.0]: https://github.com/jkniest/linting/compare/1.12.0...1.13.0
 [1.12.0]: https://github.com/jkniest/linting/compare/1.11.0...1.12.0
 [1.11.0]: https://github.com/jkniest/linting/compare/1.10.0...1.11.0
 [1.10.0]: https://github.com/jkniest/linting/compare/1.9.0...1.10.0
