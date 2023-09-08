@@ -72,7 +72,6 @@ return [
         'no_singleline_whitespace_before_semicolons'       => true,
         'no_spaces_after_function_name'                    => true,
         'no_spaces_around_offset'                          => true,
-        'no_spaces_inside_parenthesis'                     => true,
         'no_superfluous_elseif'                            => true,
         'no_superfluous_phpdoc_tags'                       => ['remove_inheritdoc' => true],
         'no_trailing_comma_in_list_call'                   => true,
@@ -194,4 +193,5 @@ return [
         'ordered_types'                                    => true,
         'type_declaration_spaces'                          => true,
         'yield_from_array_to_yields'                       => true,
+        'spaces_inside_parentheses'                        => true,
 ];
