@@ -172,6 +172,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added configuration file for php cs fixer
 - Added installation script
 
+[1.14.0]: https://github.com/jkniest/linting/compare/1.13.0...1.14.0
 [1.13.0]: https://github.com/jkniest/linting/compare/1.12.0...1.13.0
 [1.12.0]: https://github.com/jkniest/linting/compare/1.11.0...1.12.0
 [1.11.0]: https://github.com/jkniest/linting/compare/1.10.0...1.11.0
