@@ -12,6 +12,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
+## [1.14.0] - 2023-09-08
+### Added
+- Added `spaces_inside_parentheses` rule
+
+### Removed
+- Removed `no_spaces_inside_parenthesis` rule
+
+### Packages
+- Updated `friendsofphp/php-cs-fixer`: v3.21.1 -> v3.26.0
+
 ## [1.13.0] - 2023-07-22
 ### Added
 - Added `yield_from_array_to_yields` rule
