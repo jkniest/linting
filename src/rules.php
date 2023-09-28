@@ -194,4 +194,6 @@ return [
         'type_declaration_spaces'                          => true,
         'yield_from_array_to_yields'                       => true,
         'spaces_inside_parentheses'                        => true,
+        'long_to_shorthand_operator'                       => true,
+        'attribute_empty_parentheses'                      => true,
 ];
