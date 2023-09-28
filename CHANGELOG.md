@@ -12,9 +12,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
-## Unreleased
+## [1.15.0] - 2023-09-28
+### Added
+- Added `long_to_shorthand_operator` rule
+- Added `attribute_empty_parentheses` rule
+
 ### Packages
-- Updated `friendsofphp/php-cs-fixer`: v3.26.0 -> v3.26.1
+- Updated `friendsofphp/php-cs-fixer`: v3.26.0 -> v3.30.0
 
 ## [1.14.0] - 2023-09-08
 ### Added
@@ -176,6 +180,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added configuration file for php cs fixer
 - Added installation script
 
+[1.15.0]: https://github.com/jkniest/linting/compare/1.14.0...1.15.0
 [1.14.0]: https://github.com/jkniest/linting/compare/1.13.0...1.14.0
 [1.13.0]: https://github.com/jkniest/linting/compare/1.12.0...1.13.0
 [1.12.0]: https://github.com/jkniest/linting/compare/1.11.0...1.12.0
