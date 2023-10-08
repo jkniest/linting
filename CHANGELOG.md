@@ -12,6 +12,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
+## [1.16.0] - 2023-10-08
+### Added
+- Added `compact_nullable_type_declaration` rule
+- Added `braces_position` rule
+- Added `new_with_parentheses` rule
+- Added `no_unneeded_braces` rule
+- Added `native_type_declaration_casing` rule
+
+### Removed
+- Removed `compact_nullable_typehint` rule
+- Removed `curly_braces_position` rule
+- Removed `new_with_braces` rule
+- Removed `no_unneeded_curly_braces` rule
+
+### Packages
+- Updated `friendsofphp/php-cs-fixer`: v3.30.0 -> v3.34.1
+
 ## [1.15.0] - 2023-09-28
 ### Added
 - Added `long_to_shorthand_operator` rule
@@ -180,6 +197,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added configuration file for php cs fixer
 - Added installation script
 
+[1.16.0]: https://github.com/jkniest/linting/compare/1.15.0...1.16.0
 [1.15.0]: https://github.com/jkniest/linting/compare/1.14.0...1.15.0
 [1.14.0]: https://github.com/jkniest/linting/compare/1.13.0...1.14.0
 [1.13.0]: https://github.com/jkniest/linting/compare/1.12.0...1.13.0
