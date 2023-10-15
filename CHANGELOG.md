@@ -12,6 +12,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
+## Unreleased
+### Packages
+- Updated `friendsofphp/php-cs-fixer`: v3.34.1 -> v3.35.1
+
 ## [1.16.0] - 2023-10-08
 ### Added
 - Added `compact_nullable_type_declaration` rule
