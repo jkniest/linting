@@ -22,7 +22,7 @@ return [
         'dir_constant'                                     => true,
         'elseif'                                           => true,
         'encoding'                                         => true,
-        'escape_implicit_backslashes'                      => true,
+        'string_implicit_backslashes'                      => true,
         'explicit_indirect_variable'                       => true,
         'explicit_string_variable'                         => true,
         'full_opening_tag'                                 => true,
