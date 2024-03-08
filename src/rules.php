@@ -199,4 +199,5 @@ return [
         'native_type_declaration_casing'                   => true,
         'multiline_string_to_heredoc'                      => true,
         'numeric_literal_separator'                        => true,
+        'phpdoc_array_type'                                => true,
 ];
