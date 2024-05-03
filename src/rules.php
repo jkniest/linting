@@ -200,4 +200,5 @@ return [
         'multiline_string_to_heredoc'                      => true,
         'numeric_literal_separator'                        => true,
         'phpdoc_array_type'                                => true,
+        'php_unit_attributes'                              => true,
 ];
