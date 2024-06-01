@@ -12,12 +12,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
+## [1.21.0]
+### Added
+- Added `ordered_attributes` rule
+
+### Packages
+- Updated `friendsofphp/php-cs-fixer`: v3.54.0 -> v3.58.1
+
 ## [1.20.0] - 2024-05-03
 ### Added
 - Added `php_unit_attributes` rule
 
 ### Packages
-- Updated `friendsofphp/php-cs-fixer`: v3.51.0 -> v3.53.0
+- Updated `friendsofphp/php-cs-fixer`: v3.51.0 -> v3.54.0
 
 ## [1.19.0] - 2024-03-08
 ### Added
@@ -230,6 +237,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added configuration file for php cs fixer
 - Added installation script
 
+[1.21.0]: https://github.com/jkniest/linting/compare/1.20.0...1.21.0
 [1.20.0]: https://github.com/jkniest/linting/compare/1.19.0...1.20.0
 [1.19.0]: https://github.com/jkniest/linting/compare/1.18.0...1.19.0
 [1.18.0]: https://github.com/jkniest/linting/compare/1.17.0...1.18.0
