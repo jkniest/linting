@@ -201,4 +201,5 @@ return [
         'numeric_literal_separator'                        => true,
         'phpdoc_array_type'                                => true,
         'php_unit_attributes'                              => true,
+        'ordered_attributes'                               => true,
 ];
