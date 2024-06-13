@@ -12,6 +12,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
+## Unreleased
+### Added
+- Added "offical" support for PHP8.3
+
 ## [1.21.0]
 ### Added
 - Added `ordered_attributes` rule
