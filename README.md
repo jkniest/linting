@@ -13,7 +13,7 @@ composer require jkniest/linting
 2) Run the installation script. This will copy all linting configurations in their correct place:
 
 ```shell
-./vendor/bin/jkniest-lint-install
+./vendor/bin/jkniest-linting-install
 ```
 
 ## What's included?
