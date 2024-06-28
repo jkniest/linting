@@ -16,6 +16,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Added "offical" support for PHP8.3
 
+### Packages
+- Updated `friendsofphp/php-cs-fixer`: v3.58.1 -> v3.59.3
+
 ## [1.21.0]
 ### Added
 - Added `ordered_attributes` rule
