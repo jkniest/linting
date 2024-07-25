@@ -135,7 +135,6 @@ return [
         'space_after_semicolon'                            => true,
         'standardize_increment'                            => true,
         'standardize_not_equals'                           => true,
-        'static_lambda'                                    => true,
         'strict_comparison'                                => true,
         'strict_param'                                     => true,
         'switch_case_semicolon_to_colon'                   => true,
