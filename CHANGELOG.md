@@ -13,8 +13,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Packages
 
 ## Unreleased
+
+## [1.23.0]
+### Changed
+- Added `array_destructuring` value to `trailing_comma_in_multiline` rule
+
 ### Packages
-- Updated `friendsofphp/php-cs-fixer`: v3.59.3 -> v3.62.0
+- Updated `friendsofphp/php-cs-fixer`: v3.59.3 -> v3.64.0
 
 ## [1.22.0]
 ### Added
@@ -251,6 +256,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added configuration file for php cs fixer
 - Added installation script
 
+[1.23.0]: https://github.com/jkniest/linting/compare/1.22.0...1.23.0
 [1.22.0]: https://github.com/jkniest/linting/compare/1.21.0...1.22.0
 [1.21.0]: https://github.com/jkniest/linting/compare/1.20.0...1.21.0
 [1.20.0]: https://github.com/jkniest/linting/compare/1.19.0...1.20.0
