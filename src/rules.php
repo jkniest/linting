@@ -86,7 +86,7 @@ return [
         'no_whitespace_in_blank_line'                      => true,
         'normalize_index_brace'                            => true,
         'object_operator_without_whitespace'               => true,
-        'ordered_imports'                                  => ['sort_algorithm' => 'length'],
+        'ordered_imports'                                  => true,
         'php_unit_construct'                               => true,
         'php_unit_dedicate_assert'                         => true,
         'php_unit_method_casing'                           => ['case' => 'snake_case'],
@@ -202,3 +202,4 @@ return [
         'php_unit_attributes'                              => true,
         'ordered_attributes'                               => true,
 ];
+
