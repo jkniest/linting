@@ -12,6 +12,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
+## [1.25.0]
+### Changed
+- Updated rule `ordered_imports` to sort imports alphabetically instead of length (length was deprecated in 3.71.0)
+
+### Packages
+- Updated `friendsofphp/php-cs-fixer`: v3.68.5 -> v3.74.0
+
 ## [1.24.0]
 ### Changed
 - Added parallel detect to default config
@@ -261,6 +268,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added configuration file for php cs fixer
 - Added installation script
 
+[1.25.0]: https://github.com/jkniest/linting/compare/1.24.0...1.25.0
 [1.24.0]: https://github.com/jkniest/linting/compare/1.23.0...1.24.0
 [1.23.0]: https://github.com/jkniest/linting/compare/1.22.0...1.23.0
 [1.22.0]: https://github.com/jkniest/linting/compare/1.21.0...1.22.0
