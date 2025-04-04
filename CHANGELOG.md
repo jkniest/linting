@@ -12,6 +12,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
+## Unreleased
+### Packages
+- Updated `friendsofphp/php-cs-fixer`: v3.74.0 -> v3.75.0
+
+
 ## [1.25.0]
 ### Changed
 - Updated rule `ordered_imports` to sort imports alphabetically instead of length (length was deprecated in 3.71.0)
