@@ -12,9 +12,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
-## Unreleased
+## [1.26.0]
+### Added
+- Added `new_expression_parentheses` rule
+- Added `multiline_promoted_properties` rule
+
+### Changed
+- Use the own php cs config on itself
+
 ### Packages
-- Updated `friendsofphp/php-cs-fixer`: v3.74.0 -> v3.75.0
+- Updated `friendsofphp/php-cs-fixer`: v3.74.0 -> v3.85.1
 
 
 ## [1.25.0]
@@ -273,6 +280,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added configuration file for php cs fixer
 - Added installation script
 
+[1.26.0]: https://github.com/jkniest/linting/compare/1.25.0...1.26.0
 [1.25.0]: https://github.com/jkniest/linting/compare/1.24.0...1.25.0
 [1.24.0]: https://github.com/jkniest/linting/compare/1.23.0...1.24.0
 [1.23.0]: https://github.com/jkniest/linting/compare/1.22.0...1.23.0
