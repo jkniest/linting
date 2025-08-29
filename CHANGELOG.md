@@ -12,6 +12,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
+## Unreleased
+### Packages
+- Updated `friendsofphp/php-cs-fixer`: v3.85.1 -> 3.86.0
+
 ## [1.26.0]
 ### Added
 - Added `new_expression_parentheses` rule
