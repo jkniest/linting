@@ -14,7 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 ### Packages
-- Updated `friendsofphp/php-cs-fixer`: v3.85.1 -> 3.87.1
+- Updated `friendsofphp/php-cs-fixer`: v3.85.1 -> 3.88.2
 
 ## [1.26.0]
 ### Added
