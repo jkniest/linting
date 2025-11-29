@@ -205,4 +205,5 @@ return [
     'ordered_attributes'                               => true,
     'new_expression_parentheses'                       => true,
     'multiline_promoted_properties'                    => true,
+    'stringable_for_to_string'                         => true,
 ];
