@@ -12,6 +12,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
+## Unreleased
+### Packages
+- Updated `friendsofphp/php-cs-fixer`: v3.91.0 -> v3.91.3
+
 ## [1.27.0]
 ### Added
 - Added "offical" support for PHP8.5
