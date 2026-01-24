@@ -12,9 +12,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
-## Unreleased
+## [1.28.0]
+### Added
+- Added `no_redundant_readonly_property` rule
+- Added `phpdoc_types_no_duplicates` rule
+
 ### Packages
-- Updated `friendsofphp/php-cs-fixer`: v3.91.0 -> v3.92.5
+- Updated `friendsofphp/php-cs-fixer`: v3.91.0 -> v3.93.0
 
 ## [1.27.0]
 ### Added
@@ -292,6 +296,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added configuration file for php cs fixer
 - Added installation script
 
+[1.28.0]: https://github.com/jkniest/linting/compare/1.27.0...1.28.0
 [1.27.0]: https://github.com/jkniest/linting/compare/1.26.0...1.27.0
 [1.26.0]: https://github.com/jkniest/linting/compare/1.25.0...1.26.0
 [1.25.0]: https://github.com/jkniest/linting/compare/1.24.0...1.25.0

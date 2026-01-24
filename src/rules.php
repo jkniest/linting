@@ -206,4 +206,6 @@ return [
     'new_expression_parentheses'                       => true,
     'multiline_promoted_properties'                    => true,
     'stringable_for_to_string'                         => true,
+    'no_redundant_readonly_property'                   => true,
+    'phpdoc_types_no_duplicates'                       => true,
 ];
