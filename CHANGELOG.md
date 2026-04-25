@@ -12,9 +12,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed
 - Packages
 
-## Unreleased
+## [1.29.0]
+### Added
+- Added `no_whitespace_in_empty_array` rule
+
 ### Packages
-- Updated `friendsofphp/php-cs-fixer`: v3.93.0 -> v3.94.2
+- Updated `friendsofphp/php-cs-fixer`: v3.93.0 -> v3.95.1
 
 ## [1.28.0]
 ### Added
@@ -300,6 +303,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added configuration file for php cs fixer
 - Added installation script
 
+[1.29.0]: https://github.com/jkniest/linting/compare/1.28.0...1.29.0
 [1.28.0]: https://github.com/jkniest/linting/compare/1.27.0...1.28.0
 [1.27.0]: https://github.com/jkniest/linting/compare/1.26.0...1.27.0
 [1.26.0]: https://github.com/jkniest/linting/compare/1.25.0...1.26.0

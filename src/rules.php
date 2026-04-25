@@ -208,4 +208,5 @@ return [
     'stringable_for_to_string'                         => true,
     'no_redundant_readonly_property'                   => true,
     'phpdoc_types_no_duplicates'                       => true,
+    'no_whitespace_in_empty_array'                     => true,
 ];
